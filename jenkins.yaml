@@ -32,4 +32,3 @@
     service: 
       name: jenkins
       state: restarted
-
